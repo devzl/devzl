@@ -1,12 +1,12 @@
 # Hello, world! 👋
 
-Building cool stuff and contributing to open source.
+💻 Building cool stuff & contributing to open source.
 
-### Open source contributions
+### 🛠️ Open source contributions
 
-* **Grafana Alloy**
-* **Vultisig** / **THORChain**
+* 📊 **Grafana Alloy**
+* 🔐 **Vultisig / THORChain**
 
-Always exploring, learning, and building.
+Always exploring, learning & building.
 
-Feel free to reach out.
+📬 Feel free to reach out!
