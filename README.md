@@ -6,7 +6,7 @@
 
 * 📊 **Grafana Alloy**
 * 🔐 **Vultisig / THORChain**
-* 🤝 **Handover**
+* 🤝 **[Handover](https://github.com/devzl/handover-skill)**
 
 Always exploring, learning & building.
 
