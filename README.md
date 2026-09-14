@@ -6,6 +6,7 @@
 
 * 📊 **Grafana Alloy**
 * 🔐 **Vultisig / THORChain**
+* 🤝 **Handover**
 
 Always exploring, learning & building.
 
